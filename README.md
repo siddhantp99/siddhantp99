@@ -1,11 +1,12 @@
-<h2> Hey there 👋! I'm Siddhant.</h2>
-I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+<h2> Hey there 👋! I'm Siddhant ,</h2>
+I'm a Information Technology student who is passionate about writing code, solving problems, automating stuff, and developing software.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 😄 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp;Pursuing Bachelor Of Engineering in Information Technology at K.K. Wagh Institute Of Engineering Education And Research, Nashik.
-- 🌱 &nbsp; Budding Web Developer exploring Reactjs and MERN stack .
+- 💻 &nbsp; I am aspiring to become **Full-Stack Web Developer** as well as I like learning 📱**ML/DL** and <br/>
+- 🎓 &nbsp; Pursuing Bachelors in IT **BE IT(7 Semester)** at **K. K. Wagh Institute Of Engineering Education And Research**
+- 🌱 &nbsp; Budding Web Developer exploring **Reactjs** and enthralled to learn the **MERN Stack** .
 - 💪 &nbsp; Frequent Gym visitor.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -18,13 +19,15 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+    
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -35,7 +38,7 @@ I'm a computer science student who is passionate about writing code, solving pro
   <br/>
 
 <a href="https://github.com/siddhantp99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siddhantp99&theme=buefy&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siddhantp99&show_icons=true&theme=cobalt"></img>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantp99&theme=buefy&layout=compact" />
 </a>
 
